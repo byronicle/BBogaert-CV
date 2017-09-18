@@ -32,6 +32,7 @@ Escalated support for Support Desk
 - Synology NAS management
 - Complete linux infrastructure, no Windows servers
 - Evaluate, design, implement, document and maintain core Linux IT infrastructure solutions (servers, LDAP, backup, DHCP, DNS, Radius, Samba, VPN)
+- Bash/Python Scripting
 
 ##### Projects
 - Linux OpenVPN server with LDAP and 2-factor authentication with Yubikey OTP managed with puppet
